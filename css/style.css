@@ -1,0 +1,151 @@
+/* .par{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+.child{
+    width: 350px;
+    height: 400px;
+box-shadow: 5px 5px 10px 3px rgb(187, 187, 187);
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 15px;
+    overflow: hidden;
+    position: relative;
+}
+
+.image1{
+    width:350px ;
+    height:300px ;
+    border-top-right-radius:15px ;
+    border-top-left-radius:15px ;
+}
+.child:hover .image1{
+    scale: 1.2;
+    transition: 1s;
+}
+.text{
+    width: 350px;
+    height:100px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+}
+.app{
+    margin-left: 20px;
+}.lo{
+    margin-left: 20px; 
+}
+
+
+
+.back1{
+  width: 100%;
+  height: 350px; 
+  background-image: url(../image/branding-1.jpg); 
+background-attachment: fixed;
+position: absolute;
+left: 0;
+}
+.back2{
+    width: 100%;
+  height: 350px;
+  position: absolute;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.682);
+  display: flex;
+  justify-content: space-evenly;
+}
+body{
+    height: 5000px;
+}
+.num{
+    width: 150px ;
+    height: 150px;
+    text-align: center;
+    margin-top: 100px;
+}
+.num1{
+    color: white;
+    font-size: 50px;
+}
+.num2{
+    color: gray;
+    font-size: 19px;
+    margin-top: -30px;
+} */
+.par{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+.child1{
+    width: 400px;
+    height: 500px;
+    background-color: brown;
+}
+.child2{
+    width:800px ;
+    height: 500px;
+box-shadow: 5px 5px 15px 1px rgb(221, 221, 221);
+}
+.ico{
+    width: 350px;
+    height: 100px;
+    background-color: rgba(128, 128, 128, 0.696);
+    border-radius: 10px;
+    margin-top: 19px;
+    margin-left: 25px;
+    position: relative;
+}
+.icon1{
+    background-color: rgba(255, 255, 255, 0.526);
+    padding: 16px;
+    border-radius: 50%;
+    font-size: 22px;
+    margin-top: 20px;
+    margin-left: 10px;
+    color: white;
+}
+.po{
+    position: absolute;
+    margin-top: -50px;
+    margin-left: 80px;
+    color: white;
+}
+.p1{
+    position: absolute;
+    margin-top: -20px;
+    margin-left: 80px;
+    font-size: 14px;
+    color: white;
+}
+.input1{
+width: 355px;
+height: 40px;
+margin-top: 50px;
+margin-left: 30px;
+padding-left: 20px;
+}
+.input2{
+    width: 743px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 30px;
+    padding-left: 20px;
+
+}
+.text1{
+    margin-left: 30px;
+    margin-top: 20px; 
+}
+.btn1{
+    border-radius: 30px;
+    width: 200px;
+    height: 45px;
+    background-color: #37517e;
+    border: 0px;
+    margin-top: 20px;
+    margin-left: 280px;
+}
